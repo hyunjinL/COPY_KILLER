@@ -11,4 +11,4 @@ In eclipse, execute program.
 First, Push the "Add File" button in answer area.
 And choose the answer file.
 
-![](./ScreenShots/start_view.png)
+![](ScreenShots/start_view.png)
